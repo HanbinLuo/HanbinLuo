@@ -47,6 +47,10 @@
 
 
 
+## 📝 技术笔记
+
+- [在 VSCode Copilot 插件中使用国内大模型中转 API](./vscode-copilot-domestic-llm-guide.md)
+
 ## 📫 联系我
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luohanbin03@outlook.com)
