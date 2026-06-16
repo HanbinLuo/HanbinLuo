@@ -4,7 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/HanbinLuo?style=social)](https://github.com/HanbinLuo)
 ![Profile Views](https://komarev.com/ghpvc/?username=HanbinLuo&color=blue)
 
-[Github](https://hanbinluo.github.io)
 
 ## 🚀 关于我
 
@@ -40,15 +39,9 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HanbinLuo&theme=radical&no-frame=true&margin-w=15)
 
-## 📊 每周编码时间
-
-<!-- 如果你使用 WakaTime，可以取消注释下面的代码 -->
-<!--
-[![wakatime](https://wakatime.com/badge/user/你的wakatime用户ID.svg)](https://wakatime.com/@HanbinLuo)
--->
-
 
 
 ## 📫 联系我
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luohanbin03@outlook.com)
+🌐 [Portfolio](https://hanbinluo.github.io)
