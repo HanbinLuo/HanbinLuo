@@ -7,7 +7,7 @@
 ## 🚀 关于我
 
 - 🔭 教育经历: 江西科技师范大学 2021级电子信息工程<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上海大学 2025级信号与信息处理
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上海大学 2025级信号与信息处理
 - 🌱 正在学习: 嵌入式linux/计算机体系结构/通信基带芯片
 - 📫 如何联系我: QQ:3269367250
 - ⚡ 有趣的事实: 正在努力探索研究方向中
