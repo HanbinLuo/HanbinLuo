@@ -43,19 +43,14 @@ Signal and Information Processing | Processor Architecture | Embedded Systems
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HanbinLuo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da" height="165" alt="Hanbin Luo's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanbinLuo&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a" height="165" alt="Hanbin Luo's top languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanbinLuo&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=57606A" height="165" alt="Hanbin Luo's GitHub streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanbinLuo&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&text_color=57606A&icon_color=0969DA&rank_icon=github" alt="Hanbin Luo's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanbinLuo&layout=donut&theme=transparent&hide_border=true&title_color=0969DA&text_color=57606A&langs_count=6" alt="Hanbin Luo's top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=HanbinLuo&theme=default&hide_border=true&background=FFFFFF00&stroke=9FB3C8&ring=0969DA&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&card_width=520" alt="Hanbin Luo's GitHub streak" />
+</p>
 
 ## 📫 Contact
 
